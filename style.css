@@ -1,0 +1,124 @@
+body{
+	background:url(Img/1ecole.jpg)no-repeat top center;
+	margin:0;
+	padding:0; 
+	font-family:verdana, Geneva, sans-serif;
+}
+/*je suis en commentaire css*/
+.droite{
+	text-align:right;
+	background-color:light blue;
+}
+a{
+	text-decoration:none;
+	color:#OFAFCF;
+}
+a:hover{
+	color:#000000;
+}
+/*je suis en commentaire css*/
+#contenu:{
+	background:url(theme/content.jpg) repeat-y left;
+	padding:0  20px;
+}
+/*je suis en commentaire css*/
+#news{
+	float:left;
+	width:300px;
+}
+
+}
+/*je suis en commentaire css*/
+#navigation{
+	float:left;
+}
+/*je suis en commentaire css*/
+#site{
+	width:1200px;
+	margin:auto;
+	background-color
+}
+/*je suis en commentaire css*/
+p.welcome{
+	color:#ffff;
+	background-color:#E21C44;
+}
+/*je suis en commentaire css*/
+h6.welcome{
+	color:#fff;
+	background-color:blue;
+	font-size:25px;
+}
+h5.welcome{
+	color:#fff;
+	background-color:blue;
+	font-size:25px;
+	padding-bottom:5px;
+}
+/*je suis en commentaire css*/
+h4.welcome{
+	color:#fff;
+	background-color:blue;
+	font-size:25px;
+	padding-bottom:5px;
+}
+/*je suis en commentaire css*/
+h1.headline{
+	font-size:50px;
+	padding-left:250px;
+	font-family:Verdana;
+	width:1000px;
+	margin:auto;
+	background-color:blue;
+}
+/*je suis en commentaire css*/
+p{
+	color:blue;
+	font-size:16px;
+	width:500px;
+	margin:auto;
+	background-color
+}
+/*je suis en commentaire css*/
+nav.menu-nav ol dt.btn{
+	display:inline-block;
+}
+/*je suis en commentaire css*/
+nav.menu-nav ol dt.btn a{
+	color:blue;
+	background-color:;
+	text-decoration:none;
+	padding:10px;
+	font-size:14px;
+	background-image:orphans;
+}
+/*je suis en commentaire css*/
+nav.menu-nav ol dt.btn:hover a{
+	color:red;
+	background-color:green;
+	transition:2,5s all;
+}
+/*je suis en commentaire css*/
+h2{
+	color:green;
+	font-size:25px;
+} 
+h1{
+	color:blue;
+	font-size:50px;
+	background-color:lightblue;
+}
+/*je suis en commentaire css*/
+nav.menu-nav ul li.btn a{
+	color:red;
+	display:inline-block;
+	text-decoration:none;
+}
+/*je suis en commentaire css*/
+video{
+	display:inline-block;
+}
+.left{
+	text-align:left;
+	background:light blue;
+}
